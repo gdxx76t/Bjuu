@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piano Pro</string>
+    
+    <!-- Piano keys -->
+    <string name="key_c">C</string>
+    <string name="key_c_sharp">C#</string>
+    <string name="key_d">D</string>
+    <string name="key_d_sharp">D#</string>
+    <string name="key_e">E</string>
+    <string name="key_f">F</string>
+    <string name="key_f_sharp">F#</string>
+    <string name="key_g">G</string>
+    <string name="key_g_sharp">G#</string>
+    <string name="key_a">A</string>
+    <string name="key_a_sharp">A#</string>
+    <string name="key_b">B</string>
+    
+    <!-- UI Controls -->
+    <string name="frequency_display">فرکانس: %1$.2f Hz</string>
+    <string name="interval_ratio">نسبت فاصله: %1$.3f</string>
+    <string name="octave_count">تعداد اکتاو: %1$d</string>
+    <string name="show_frequency">نمایش فرکانس</string>
+    <string name="horizontal_layout">نمایش افقی</string>
+    <string name="dual_view">نمایش دوگانه</string>
+    <string name="record_audio">ضبط صدا</string>
+    <string name="record_video">ضبط ویدئو</string>
+    <string name="play_recording">پخش ضبط</string>
+    <string name="stop_recording">توقف ضبط</string>
+    <string name="download_instruments">دانلود سازها</string>
+    <string name="settings">تنظیمات</string>
+    
+    <!-- Settings -->
+    <string name="interval_ratio_setting">تنظیم نسبت فاصله نت‌ها</string>
+    <string name="min_ratio">حداقل: 0.001</string>
+    <string name="max_ratio">حداکثر: 3.000</string>
+    <string name="current_instrument">ساز فعلی: %1$s</string>
+    
+    <!-- Messages -->
+    <string name="recording_started">ضبط شروع شد</string>
+    <string name="recording_stopped">ضبط متوقف شد</string>
+    <string name="permission_required">مجوز مورد نیاز است</string>
+    <string name="download_complete">دانلود کامل شد</string>
+    <string name="download_failed">دانلود ناموفق</string>
+    
+    <!-- Credits -->
+    <string name="credits">ایده توسط S.D داده شده</string>
+</resources>
+
